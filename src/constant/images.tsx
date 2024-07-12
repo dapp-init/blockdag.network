@@ -62,6 +62,7 @@ import twitter from "../assets/homeimage/3.png";
 
 import logo from "../assets/homeimage/favicon.png";
 import header from "../assets/homeimage/header (1).png";
+import header2 from "../assets/homeimage/header 10.png";
 import phone from "../assets/homeimage/header (2).png";
 import youtube1 from "../assets/homeimage/header (3).png";
 import youtube2 from "../assets/homeimage/header (4).png";
@@ -142,6 +143,7 @@ export default {
     jupiter,
     logo,
     header,
+    header2,
     phone,
     youtube1,
     youtube2,
