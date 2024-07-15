@@ -90,11 +90,8 @@ function CryptoMiningRigs() {
           mining solutions with our crypto mining rigs.
         </p>
       </div>
-      <div className="flex flex-row gap-3 items-center justify-center md:grid-rows-2">
-        <div className="flex flex-col items-center justify-center">
-          <Image className="flex" src={images.miningtool3} alt="miningtool3" />
-          <h1 className="text-white text-xl">BLOCKDAG X1</h1>
-        </div>
+      <div className="flex flex-row gap-3 items-center justify-center ">
+        
         <div className="flex flex-col items-center justify-center">
           <Image className="flex" src={images.miningtool2} alt="miningtool2" />
           <h1 className="text-white text-xl">BLOCKDAG X10</h1>
