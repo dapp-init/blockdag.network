@@ -16,7 +16,7 @@ function CryptoMiningRigs() {
   return (
     <div className="bg-black px-2 py-2">
       <Navbar />
-      <div className="flex flex-col justify-center items-center gap-2 px-4 ">
+      <div className="flex flex-col justify-center items-center gap-2">
         <h1 className="text-white text-4xl">BlockDAG</h1>
         <h1 className="text-white text-4xl"> Crypto Mining Rigs</h1>
         <p className="text-white px-10 py-10 ">
@@ -90,21 +90,21 @@ function CryptoMiningRigs() {
           mining solutions with our crypto mining rigs.
         </p>
       </div>
-      <div className="flex flex-row gap-4 items-center justify-center">
+      <div className="flex flex-row gap-3 items-center justify-center md:grid-rows-2">
         <div className="flex flex-col items-center justify-center">
-          <Image src={images.miningtool3} alt="miningtool3" />
+          <Image className="flex" src={images.miningtool3} alt="miningtool3" />
           <h1 className="text-white text-xl">BLOCKDAG X1</h1>
         </div>
         <div className="flex flex-col items-center justify-center">
-          <Image src={images.miningtool2} alt="miningtool2" />
+          <Image className="flex" src={images.miningtool2} alt="miningtool2" />
           <h1 className="text-white text-xl">BLOCKDAG X10</h1>
         </div>
         <div className="flex flex-col items-center justify-center">
-          <Image src={images.miningtool1} alt="miningtool1" />
+          <Image className="flex" src={images.miningtool1} alt="miningtool1" />
           <h1 className="text-white text-xl">BLOCKDAG X30</h1>
         </div>
         <div className="flex flex-col items-center justify-center">
-          <Image src={images.miningtool4} alt="miningtool4" />
+          <Image className="flex" src={images.miningtool4} alt="miningtool4" />
           <h1 className="text-white text-xl">BLOCKDAG X100</h1>
         </div>
       </div>
