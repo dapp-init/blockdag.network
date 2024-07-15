@@ -62,6 +62,7 @@ import twitter from "../assets/homeimage/3.png";
 
 import logo from "../assets/homeimage/favicon.png";
 import header from "../assets/homeimage/header (1).png";
+import banner from "../assets/homeimage/banner.png";
 import header2 from "../assets/homeimage/header 10.png";
 import phone from "../assets/homeimage/header (2).png";
 import youtube1 from "../assets/homeimage/header (3).png";
@@ -71,6 +72,36 @@ import brands from "../assets/homeimage/header 6.png";
 import devRelease from "../assets/homeimage/header 7.png";
 import attributes from "../assets/homeimage/header 8.png";
 import footer from "../assets/homeimage/footer.png";
+
+
+import lg1 from "../assets/homeimage/logopic (1).png";
+import lg2 from "../assets/homeimage/logopic (2).png";
+import lg3 from "../assets/homeimage/logopic (3).png";
+import lg4 from "../assets/homeimage/logopic (4).png";
+import lg5 from "../assets/homeimage/logopic (5).png";
+import lg6 from "../assets/homeimage/logopic (6).png";
+import lg7 from "../assets/homeimage/logopic (7).png";
+import lg8 from "../assets/homeimage/logopic (8).png";
+import lg9 from "../assets/homeimage/logopic (9).png";
+import lg10 from "../assets/homeimage/logopic (10).png";
+import lg11 from "../assets/homeimage/logopic (11).png";
+import lg12 from "../assets/homeimage/logopic (12).png";
+import lg13 from "../assets/homeimage/logopic (13).png";
+import lg14 from "../assets/homeimage/logopic (14).png";
+import lg15 from "../assets/homeimage/logopic (15).png";
+import lg16 from "../assets/homeimage/logopic (16).png";
+
+
+import miningtool1 from "../assets/homeimage/miningtool (1).png";
+import miningtool2 from "../assets/homeimage/miningtool (2).png";
+import miningtool3 from "../assets/homeimage/miningtool (3).png";
+import miningtool4 from "../assets/homeimage/miningtool (4).png";
+
+import giveaway1 from "../assets/homeimage/giveawaypic (1).png";
+import giveaway2 from "../assets/homeimage/giveawaypic (2).png";
+import giveaway3 from "../assets/homeimage/giveawaypic (3).png";
+
+
 
 import aveai from "../assets/homeimage/Aveai.png"
 import dexScreener from "../assets/homeimage/DEXScreener.png"
@@ -151,6 +182,30 @@ export default {
     brands,
     devRelease,
     attributes,
-    footer
+    footer,
+    banner,
+    lg1,
+    lg2,
+    lg3,
+    lg4,
+    lg5,
+    lg6,
+    lg7,
+    lg8,
+    lg9,
+    lg10,
+    lg11,
+    lg12,
+    lg13,
+    lg14,
+    lg15,
+    lg16,
+    miningtool1,
+    miningtool2,
+    miningtool3,
+    miningtool4,
+    giveaway1,
+    giveaway2,
+    giveaway3,
 
 }

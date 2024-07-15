@@ -18,7 +18,7 @@ export default function Home() {
       <Navbar />
 
       <div className="w-full mt-7 flex justify-center items-center">
-        <Image src={images.header2} alt="Logo" className="h-auto w-fit" />
+        <Image src={images.header} alt="Logo" className="h-auto w-fit" />
       </div>
 
       <div className="flex flex-col mt-7 justify-center items-center gap-2">

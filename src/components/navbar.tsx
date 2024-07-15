@@ -20,18 +20,18 @@ function Navbar() {
 
         {/* Second Div: Links */}
         <div className="hidden md:flex space-x-4">
-          <a href="/connectwallet" className="text-white hover:text-white">
-            KEYNOTE
+          <a href="/" className="text-white hover:text-white">
+            KeyNote
           </a>
-          <a href="/connectwallet" className="text-white hover:text-white">
-            DEV RELEASE
+          <a href="/crypto-mining-rigs" className="text-white hover:text-white">
+            Mining
           </a>
-          <a href="/connectwallet" className="text-white hover:text-white">
-            PRODUCT
+          <a href="/giveaway" className="text-white hover:text-white">
+            GiveAway
           </a>
           
           <a href="/connectwallet" className="text-white hover:text-white">
-            MECHANISM
+            Mechanism
           </a>
         </div>
 
